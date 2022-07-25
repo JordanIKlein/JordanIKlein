@@ -2,7 +2,8 @@
 - 💬 Ask me about my iPhone Applications!
 - 😄 Pronouns: He/Him
 - 🐧 Fun fact: Emperor Penguins are the world's largest penguins (and my favorite animal!)
-- 💻 I’m currently working on a python application with resturaunt sorting in the Boston Area
+- 💻 I’m currently working on an Issue Creator in this [repository](https://github.com/JordanIKlein/Issue_Creator). It will utilize GitHub's Issue creation function.
+
 <!--
 Here are some ideas to get you started:
 
