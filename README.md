@@ -1,8 +1,9 @@
 ### Welcome to my GitHub Page! 👋😄
 - 💬 Ask me about my iPhone Applications!
 - 😄 Pronouns: He/Him
-- 🐧 Fun fact: Emperor Penguins are the world's largest penguins (and my favorite animal!)
-- 💻 I’m currently working on an Issue Creator in this [repository](https://github.com/JordanIKlein/Issue_Creator). It will utilize GitHub's Issue creation function.
+- 💾 Work: IT Security Engineer III
+- 🐧 Fun fact: Emperor Penguins are the world's largest penguins!
+- 💻 I’m currently working on an reorganizing my repos
 
 <!--
 Here are some ideas to get you started:
